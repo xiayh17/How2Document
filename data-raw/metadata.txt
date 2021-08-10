@@ -1,0 +1,22 @@
+sampleID	group	drug	batch
+Control1	Control	vesicle	amlodipine aspartate effects
+Control2	Control	vesicle	amlodipine aspartate effects
+Control3	Control	vesicle	amlodipine aspartate effects
+Control4	Control	vesicle	amlodipine aspartate effects
+Control5	Control	vesicle	amlodipine aspartate effects
+Control6	Control	vesicle	amlodipine aspartate effects
+Control7	Control	vesicle	amlodipine aspartate effects
+AB8	AB	amlodipine besylate	amlodipine aspartate effects
+AB9	AB	amlodipine besylate	amlodipine aspartate effects
+AB10	AB	amlodipine besylate	amlodipine aspartate effects
+AB11	AB	amlodipine besylate	amlodipine aspartate effects
+AB12	AB	amlodipine besylate	amlodipine aspartate effects
+AB13	AB	amlodipine besylate	amlodipine aspartate effects
+AB14	AB	amlodipine besylate	amlodipine aspartate effects
+AA15	AA	amlodipine aspartate	amlodipine aspartate effects
+AA16	AA	amlodipine aspartate	amlodipine aspartate effects
+AA17	AA	amlodipine aspartate	amlodipine aspartate effects
+AA18	AA	amlodipine aspartate	amlodipine aspartate effects
+AA19	AA	amlodipine aspartate	amlodipine aspartate effects
+AA20	AA	amlodipine aspartate	amlodipine aspartate effects
+AA21	AA	amlodipine aspartate	amlodipine aspartate effects

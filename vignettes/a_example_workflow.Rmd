@@ -1,0 +1,19 @@
+---
+title: "a_example_workflow"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{a_example_workflow}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(How2Document)
+```

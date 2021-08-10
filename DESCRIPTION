@@ -1,0 +1,30 @@
+Package: How2Document
+Title: An R Package to Collect Everyones Homework
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Yonghe",
+           family = "Xia",
+           role = c("aut", "cre"),
+           email = "xiayh17@example.com")
+Description: This package collects functions from the small 
+    assignments submitted by students in the R package development course.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
+Imports: 
+    utils,
+    stats,
+    DESeq2,
+    BiocGenerics,
+    ggplot2,
+    ggpubr,
+    tibble
+biocViews: DataImport, Microarray
+Suggests: 
+    rmarkdown,
+    knitr
+VignetteBuilder: knitr
