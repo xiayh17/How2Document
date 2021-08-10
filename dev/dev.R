@@ -18,3 +18,26 @@ usethis::use_vignette("a_example_workflow")
 usethis::use_pkgdown()
 pkgdown::build_site()
 
+## add git
+usethis::use_git()
+usethis::use_github()
+
+# CI
+usethis::use_github_action_check_standard()
+
+# CRAN
+# 拼写检查
+devtools::spell_check()
+# 常规的本地测试
+devtools::check()
+# rhub 的全平台测试
+rhub::check_for_cran()
+# 仅仅Windows平台测试
+devtools::check_win_devel()
+# rhub 仅仅Windows平台测试
+rhub::check_for_cran(
+  platform="windows-x86_64-devel",
+  env_vars=c(R_COMPILE_AND_INSTALL_PACKAGES = "always")
+)
+# 检查
+devtools::release()

@@ -2,6 +2,7 @@
 # How2Document
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/xiayh17/How2Document/workflows/R-CMD-check/badge.svg)](https://github.com/xiayh17/How2Document/actions)
 <!-- badges: end -->
 
 The goal of How2Document is to ...
