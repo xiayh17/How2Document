@@ -28,3 +28,5 @@ Suggests:
     rmarkdown,
     knitr
 VignetteBuilder: knitr
+URL: https://github.com/xiayh17/How2Document
+BugReports: https://github.com/xiayh17/How2Document/issues
